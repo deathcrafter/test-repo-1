@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.cb6a0c89.css",
-    "main.js": "/static/js/main.3601fe54.js",
-    "static/js/787.4f60a1ff.chunk.js": "/static/js/787.4f60a1ff.chunk.js",
-    "static/media/edpf.jpg": "/static/media/edpf.3e9878485abcf38b1c97.jpg",
-    "static/media/ig.webp": "/static/media/ig.b645fd07b894e586a42a.webp",
-    "static/media/banbg.webp": "/static/media/banbg.77f0e66cd3a6aaaeb838.webp",
-    "static/media/edbg.jpg": "/static/media/edbg.94832ef9e355522b5bbb.jpg",
-    "static/media/banhi.webp": "/static/media/banhi.cbcea650a5a3f34c65cc.webp",
-    "index.html": "/index.html",
-    "main.cb6a0c89.css.map": "/static/css/main.cb6a0c89.css.map",
-    "main.3601fe54.js.map": "/static/js/main.3601fe54.js.map",
-    "787.4f60a1ff.chunk.js.map": "/static/js/787.4f60a1ff.chunk.js.map"
+    "main.css": "https://banhi.deathcrafter.dev/static/css/main.21f27754.css",
+    "main.js": "https://banhi.deathcrafter.dev/static/js/main.16b21267.js",
+    "static/js/787.4f60a1ff.chunk.js": "https://banhi.deathcrafter.dev/static/js/787.4f60a1ff.chunk.js",
+    "static/media/edpf.jpg": "https://banhi.deathcrafter.dev/static/media/edpf.3e9878485abcf38b1c97.jpg",
+    "static/media/ig.webp": "https://banhi.deathcrafter.dev/static/media/ig.b645fd07b894e586a42a.webp",
+    "static/media/banbg.webp": "https://banhi.deathcrafter.dev/static/media/banbg.77f0e66cd3a6aaaeb838.webp",
+    "static/media/edbg.jpg": "https://banhi.deathcrafter.dev/static/media/edbg.94832ef9e355522b5bbb.jpg",
+    "static/media/banhi.webp": "https://banhi.deathcrafter.dev/static/media/banhi.cbcea650a5a3f34c65cc.webp",
+    "index.html": "https://banhi.deathcrafter.dev/index.html",
+    "main.21f27754.css.map": "https://banhi.deathcrafter.dev/static/css/main.21f27754.css.map",
+    "main.16b21267.js.map": "https://banhi.deathcrafter.dev/static/js/main.16b21267.js.map",
+    "787.4f60a1ff.chunk.js.map": "https://banhi.deathcrafter.dev/static/js/787.4f60a1ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb6a0c89.css",
-    "static/js/main.3601fe54.js"
+    "static/css/main.21f27754.css",
+    "static/js/main.16b21267.js"
   ]
 }
